@@ -34,7 +34,7 @@ If you want to add more than four `.dcm` files, you must modify the `index.js` f
 After replacing `.dcm` files, run this code to send them to the AI for prediction
 
 ```
-npm run send
+npm start
 ```
 
 Please wait while the AI is processing your data; if everything completes successfully, you will get a response like this:
