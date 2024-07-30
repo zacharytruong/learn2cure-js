@@ -10,6 +10,12 @@ The results from AI prediction may be false or inaccurate; please use them caref
 
 Please ensure you have Node.js installed. If not, please install it here: https://nodejs.org/en.
 
+### Clone the repo
+
+```
+git clone git@github.com:zacharytruong/learn2cure-js.git
+```
+
 ### Install all dependencies
 
 ```
