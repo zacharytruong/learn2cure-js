@@ -1,0 +1,17 @@
+{
+  "name": "learn2cure-gui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "send": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "latest",
+    "follow-redirects": "latest",
+    "form-data": "latest"
+  }
+}
